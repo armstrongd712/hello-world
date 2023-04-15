@@ -1,3 +1,2 @@
-# hello-world
-My hello-world project for COM437 Mobile Applications
-I am currently enrolled at St. Leo University, a husband and Father of three boys.
+I have attached my COM 437 Andorid Application Project Outline Change Log. this changelog identifies my previous and current changes.
+[Android Application Project Change Log 14APR22.docx](https://github.com/armstrongd712/hello-world/files/11238126/Android.Application.Project.Change.Log.14APR22.docx)
